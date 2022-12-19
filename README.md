@@ -1,6 +1,4 @@
-# online-shopping-with-advanced-admin-page
-Updated version
-
+# ecommerce website for rimm foods
 
 online shopping system with both admin and user layouts.
 
